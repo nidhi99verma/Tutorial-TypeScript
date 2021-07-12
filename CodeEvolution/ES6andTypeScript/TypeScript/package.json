@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "tsc-watch": "^4.4.0"
+  }
+}
